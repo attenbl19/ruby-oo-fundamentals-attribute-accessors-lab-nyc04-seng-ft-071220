@@ -10,3 +10,5 @@ class Cat
     puts "meow!"
   end
 end
+
+maru = Cat.new("")
